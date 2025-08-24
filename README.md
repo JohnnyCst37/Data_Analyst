@@ -11,7 +11,7 @@ Minha paixão é trazer uma visão clara e estratégica do que falam os dados e 
 
 Neste repositório, você encontrará meu portfólio de projetos que demonstram minha capacidade de unir visão de negócio com competências técnicas em visualização, modelagem e automação.
 
-Aos poucos irei carregando todos Os trabalhos, aguardem!  
+ 
 
 ---
 
@@ -28,3 +28,6 @@ Aos poucos irei carregando todos Os trabalhos, aguardem!
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-555555?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-df5f2e?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
+![csv](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+
+Aos poucos irei carregando todos Os trabalhos, aguardem! 
