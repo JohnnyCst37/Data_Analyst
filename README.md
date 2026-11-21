@@ -3,16 +3,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df5f2e&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+Johnny+Fernandes+;ESPECIALISTA+EM+POWER+BI;ANALISTA+DE+DADOS;Consultor+de-Negócios;Bem-Vindos!+%3A%29)](https://git.io/typing-svg)
 
 ---
+# Portfólio de Análise de Dados & Inteligência de Negócios
 
-### Sobre Mim
-Olá! Sou Johnny Fernandes, um profissional com experiência em Análise de Dados e Inteligência de Negócios. Minha trajetória como Consultor de Negócios me capacita a ir além do tratamento de dados, permitindo-me mapear mercados, identificar tendências e resgatar "tesouros escondidos" em processos de gestão.
+Olá! Sou **Johnny Fernandes**, Consultor de Negócios e Analista de Dados focado em transformar dados operacionais e financeiros em decisões práticas para pequenas e médias empresas (PMEs) e instituições de ensino.
 
-Minha paixão é trazer uma visão clara e estratégica do que falam os dados e trazer informções que impulsionam a tomada de decisões inteligentes. Recentemente, aprofundei minhas habilidades técnicas com a conclusão do curso de Especialista em Power BI Microsoft pela EBAC, e atualmente estou expandindo meus conhecimentos em Ciência de Dados com Python e outras linguagens de programação.
+## O que você encontra neste repositório
+- **Business Intelligence (Power BI):** Projetos de ETL, modelagem estrela, medidas DAX e dashboards gerenciais (formação Especialista em Power BI — EBAC).
+- **Análise de Dados com Python:** Limpeza de dados, agregações com `pandas` e `numpy`, análise de margens, curva de caixa e visualizações com `matplotlib`/`seaborn`.
+- **Estudos de Caso Reais de PMEs:** Diagnósticos de ociosidade de agenda, perdas de almoxarifado, ponto de equilíbrio e previsibilidade de caixa.
 
-Neste repositório, você encontrará meu portfólio de projetos que demonstram minha capacidade de unir visão de negócio com competências técnicas em visualização, modelagem e automação.
+## Stack Técnica
+- **Dados & BI:** Microsoft Power BI (Power Query, DAX), Python (`pandas`, `numpy`, `matplotlib`, `seaborn`), SQL, Excel / Google Sheets
+- **Web & Produtos Próprios:** HTML5, CSS3, JavaScript, React/Next.js, Firebase
+- **Negócios:** Diagnóstico Financeiro, Mapeamento de Processos, Controle de Estoque e KPIs Gerenciais
 
- 
+## Projetos em Destaque
+| Projeto | Problema Resolvido | Ferramentas | Status |
+| :--- | :--- | :--- | :--- |
+| **ConsultantFlow** | Diagnóstico empresarial e geração de propostas baseadas em indicadores de PMEs | Next.js, Firebase, Dados | Em produção |
+| **SAD School** | Governança pedagógica, calendário e automação de rotinas escolares | Web, Dados, Automação | Piloto operacional |
+| **Dashboards de Gestão (EBAC)** | ETL e visualização de indicadores comerciais e financeiros | Power BI, DAX | Concluído |
+| **Análises Exploratórias em Python** | Pré-processamento, limpeza e diagnóstico financeiro/estoque | Python, Pandas | Em andamento |
 
+## Contato
+- **LinkedIn:** [linkedin.com/in/johnnyfernandes37](https://www.linkedin.com/in/johnnyfernandes37)
+- **E-mail:** fernandesjohnnnys@gmail.com
 ---
 
 ### **Minhas Habilidades & Ferramentas:**
